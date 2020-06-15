@@ -10,4 +10,11 @@ We also learned how to give certain rules to data to find out what is a certain 
 
 ## Methods
 
-We learned how to manipulate strings using using methods. These attributes are used tell to tell 
+We learned how to manipulate strings using methods. These attributes are used tell a given item to be modified by saved commands. *For example*:
+
+var x = 'hello'
+x.toUppercase will capitalize all the letteris in that string.
+
+## Indexes
+
+Indexes are deal with the placement of characters in a string and what their value is. You can use indexes to find what characters are where and manipulate strings.
